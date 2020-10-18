@@ -6,6 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    Mi Aplicacion web en PHP
+    <h1>Mi Aplicacion web en PHP</h1>
+
 </body>
 </html>
